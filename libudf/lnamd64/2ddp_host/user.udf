@@ -1,0 +1,4 @@
+CSOURCES= fsi.c fsi_udf.c
+HSOURCES= fsi.h
+FLUENT_INC=/ansys_inc/v232/fluent
+GPU_SUPPORT=off

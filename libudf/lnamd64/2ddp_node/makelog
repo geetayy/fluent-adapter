@@ -1,0 +1,5 @@
+# Generating udf_names.c because of makefile fsi.c fsi_udf.c
+# Compiling udf_names.o because of udf_names.c fsi.h
+# Compiling fsi.o because of fsi.c fsi.h
+# Compiling fsi_udf.o because of fsi_udf.c fsi.h
+# Linking libudf.so because of makefile user.udf udf_names.c udf_names.o fsi.o fsi_udf.o
